@@ -1,0 +1,1 @@
+I'm taking this 100 days of Python challange where i'll try to be consistant for next 100 days.
